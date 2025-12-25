@@ -1,0 +1,7 @@
+{
+  "name": "Thai Sang Thai - Tech for People",
+  "description": "A digital portal for common citizens featuring an anti-corruption tool (Thai Sang Clear) and an SME/Farmer group-buying platform (SME Power).",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
